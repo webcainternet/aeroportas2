@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://aeroportas.com.br/admin/');
-define('HTTP_CATALOG', 'http://aeroportas.com.br/');
+define('HTTP_SERVER', 'http://aeroportas.homolog.lojavirtual.digital/admin/');
+define('HTTP_CATALOG', 'http://aeroportas.homolog.lojavirtual.digital/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://aeroportas.com.br/admin/');
-define('HTTPS_CATALOG', 'http://aeroportas.com.br/');
+define('HTTPS_SERVER', 'http://aeroportas.homolog.lojavirtual.digital/admin/');
+define('HTTPS_CATALOG', 'http://aeroportas.homolog.lojavirtual.digital/');
 
 // DIR
 define('DIR_APPLICATION', '/srv/httpd/aeroportas.com.br/aeroportas/public/admin/');
